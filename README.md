@@ -6,4 +6,4 @@ A simple replacement for curl calls in docker-compose.yml. The primary use case 
 
 ##Downloads:
 ### Linux binaries
-[Version 1.0.0](https://github.com/cloudsurfers/go-healthcheck/blob/main/builds/hc1.0.0)
+[Version 1.0.0](https://github.com/cloudsurfers/go-healthcheck/raw/main/builds/hc1.0.0)
